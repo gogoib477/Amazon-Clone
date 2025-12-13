@@ -4,16 +4,6 @@ A **frontend Amazon website clone** built using **HTML and CSS only**. This proj
 
 ---
 
-## 🔗 Live Demo
-
-> *Optional*: Add your deployed link here (GitHub Pages / Netlify)
-
-```
-https://your-live-demo-link
-```
-
----
-
 ## 📌 Features
 
 * Amazon-style **navigation bar** with logo, search bar, and icons
@@ -80,16 +70,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-> *Optional*: Add screenshots of your project
-
-```
-/screenshots/homepage.png
-```
-
----
-
 ## 📌 Resume Description (You can copy this)
 
 > **Amazon Website Clone** – Frontend Project
@@ -120,7 +100,7 @@ This project is for **educational purposes only** and is not affiliated with Ama
 ## 👤 Author
 
 **Binod Gogoi**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/your-username](https://github.com/gogoib477)
 
 ---
 
