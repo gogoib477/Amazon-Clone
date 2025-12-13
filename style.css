@@ -8,3 +8,48 @@ html, body{
     height: 100%;
     width: 100%;
 }
+
+.navbar{
+    height: 60px;
+    background-color: #0F1111;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo{
+    height: 50px;
+    width: 130px;
+    background-size: cover;
+}
+
+.logo{
+    height: 50px;
+    width: 100%;
+    background-image: url(assets/alogo5.png);
+    background-size: cover;
+}
+
+.border{
+    border:2px solid transparent;
+}
+
+.border:hover{
+    border: 1px solid white;
+}
+
+/* box2 */
+.add-first{
+    color: #CCCCCC;
+    font-size: 0.8rem;
+    margin-left: 20px;
+}
+
+.add-sec{
+    font-size: 1rem;
+}
+
+.add-icon{
+    display: flex;
+    align-items: center;
+}
