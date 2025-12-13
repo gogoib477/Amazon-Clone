@@ -70,13 +70,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📌 Resume Description (You can copy this)
-
-> **Amazon Website Clone** – Frontend Project
-> Developed a responsive Amazon homepage clone using HTML and CSS, replicating navigation, product sections, and layout design. Strengthened frontend fundamentals including layout structuring, styling, and UI consistency.
-
----
-
 ## 📈 Future Improvements
 
 * Add JavaScript for interactivity (search, cart, sliders)
