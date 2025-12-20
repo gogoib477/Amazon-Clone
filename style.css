@@ -303,3 +303,104 @@ ul a{
 .copyright{
     padding-top: 5px;
 }
+
+
+/* responvie */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .nav-search {
+        width: 90%;
+        margin: 10px 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .panel {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 8px;
+    }
+
+    .panel-ops {
+        width: 100%;
+        text-align: center;
+    }
+
+    .panel-ops p {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    .panel-deals {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        height: 250px;
+        background-position: center;
+    }
+
+    .hero-msg {
+        width: 95%;
+        font-size: 0.85rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .box {
+        width: 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    .box {
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    .foot-panel2 {
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .foot-panel2 ul {
+        width: 45%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .foot-panel2 ul {
+        width: 90%;
+        text-align: center;
+    }
+
+    .foot-panel3 {
+        flex-direction: column;
+        height: auto;
+        padding: 10px 0;
+    }
+
+    .both {
+        flex-direction: column;
+        gap: 5px;
+    }
+}
