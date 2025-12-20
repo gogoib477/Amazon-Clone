@@ -93,7 +93,7 @@ This project is for **educational purposes only** and is not affiliated with Ama
 ## 👤 Author
 
 **Binod Gogoi**
-GitHub: [https://github.com/your-username](https://github.com/gogoib477)
+GitHub: https://github.com/gogoib477
 
 ---
 
